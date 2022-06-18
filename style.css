@@ -1,0 +1,14 @@
+
+.note{
+    color:chartreuse;
+    width:100%;
+}
+body{
+background-size: cover 
+}
+canvas{
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 3px;
+    box-shadow: 5px 10px 10px royalblue;
+}
